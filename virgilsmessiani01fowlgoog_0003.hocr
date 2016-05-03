@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsmessiani01fowlgoog_0003.png"; bbox 0 0 846 1167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 144 319 149 877">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 144 319 149 877">
+     <span class='ocr_line' id='line_1_1' title="bbox 144 319 149 877; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 144 319 149 877; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 225 643 459 659">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 225 643 459 659">
+     <span class='ocr_line' id='line_1_2' title="bbox 225 643 459 659; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 225 643 384 659; x_wconf 77' lang='lat' dir='ltr'><strong>CONSTANTIUS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 395 643 459 659; x_wconf 80' lang='lat' dir='ltr'>FUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 305 743 378 758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 305 743 378 758">
+     <span class='ocr_line' id='line_1_3' title="bbox 305 743 378 758; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 305 743 378 758; x_wconf 62' lang='grc' dir='ltr'>ιαμ-ιω)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 153 302 541 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 153 302 541 1089">
+     <span class='ocr_line' id='line_1_4' title="bbox 153 302 541 1089; baseline 0 78"><span class='ocrx_word' id='word_1_5' title='bbox 153 302 541 1089; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
